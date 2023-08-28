@@ -1,0 +1,43 @@
+body {
+    /* background-color: aqua; */
+    background: url(1.jfif) center/cover no-repeat;
+}
+
+.container {
+    margin: auto;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
+
+#screen {
+    font-size: 45px;
+    height: 100px;
+    text-align: right;
+    font-weight: bold;
+    border: 2px solid black;
+    width: 598px;
+    /* justify-content: center; */
+    margin: auto;
+}
+
+button {
+    font-size: 43px;
+    background-color: white;
+    color: black;
+    width: 148px;
+    height: 81px;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
